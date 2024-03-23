@@ -1,6 +1,6 @@
 {
     "name": "cipherous",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "dependencies": {
         "fill-keys": "^1.0.2",
         "module-not-found-error": "^1.0.0",
